@@ -1,11 +1,12 @@
 ---
-name: 🐛 Bug Report
-about: Reportar un error para ayudarnos a mejorar el proyecto.
-title: "[BUG] - Descripción corta del error"
+name: Bug report
+about: Reportar un error
+title: "[BUG] "
 labels: bug
 assignees: ''
-
 ---
+
+
 
 ## 🐛 Bug Report
 
